@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
 
 💬 Language <br>
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
