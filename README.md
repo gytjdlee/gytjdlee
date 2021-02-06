@@ -1,7 +1,7 @@
 💬 Tech stack
 ------------------------------------------------
 <b>DBMS</b> <br>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql5.6, 5.7-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
