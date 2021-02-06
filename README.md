@@ -1,15 +1,17 @@
 💬 Tech stack
 ------------------------------------------------
-<b>DBMS</b> <br>
+<b>DBMS</b><br>
 <img src="https://img.shields.io/badge/Mysql 5.6, 5.7-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle 10g, 11g-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mongodb 3.6.x-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis 5.0.x-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
-<b>Language</b> <br>
+
+<b>Language</b><br>
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python 3.x-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django 3.0.x-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<b>Other (Interest)</b> <br>
+
+<b>Other (Interest)</b><br>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
