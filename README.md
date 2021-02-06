@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Python 3.x-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django 3.0.x-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
-<b>Other</b> <br>
+<b>Other (Interest)</b> <br>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
