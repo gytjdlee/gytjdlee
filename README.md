@@ -1,7 +1,7 @@
 
 Hi There, I'm Say <br>
 💬 Tech stack
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+------------------------------------------------
 <b>DBMS</b><br>
 <img src="https://img.shields.io/badge/Mysql 5.6, 5.7-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle 10g, 11g-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
