@@ -2,9 +2,9 @@
 💬 Tech stack
 ------------------------------------------------
 <b>* DBMS</b><br>
-<img src="https://img.shields.io/badge/Mysql 5.6, 5.7 (2016.12 ~ )-4479A1?style=flat&logo=MySQL&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Oracle 10g, 11g (2013.04 ~ 2018.02)-F80000?style=flat&logo=Oracle&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Mongodb 3.6.x (2018.03 ~ 2019.04)-47A248?style=flat&logo=MongoDB&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Mysql 5.6, 5.7 (2016.12 ~ )-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle 10g, 11g (2013.04 ~ 2018.02)-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mongodb 3.6.x (2018.03 ~ 2019.04)-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis 5.0.x (2018.03 ~ 2019.04)-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
 
 <b>* Language</b><br>
